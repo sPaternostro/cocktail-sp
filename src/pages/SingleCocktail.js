@@ -114,7 +114,7 @@ const SingleCocktail = () => {
       </div>
 
       <section className='section cocktail-section'>
-        <Link to='/' className='btn btn-primary'>
+        <Link to='/cocktail-sp' className='btn btn-primary'>
           back home
         </Link>
       </section>
