@@ -6,7 +6,7 @@ const Error = () => {
    <section className="error-page section">
     <div className="error-container">
       <h1>Oops. Seems like you reached a dead-end.</h1>
-      <Link to='/' className='btn btn-primary'>
+      <Link to='/cocktail-sp' className='btn btn-primary'>
         Take me home
       </Link>
     </div>

@@ -251,6 +251,8 @@ Error
 .error-page {
   display: flex;
   justify-content: center;
+  min-height: 700px;
+  align-items: center;
 }
 
 .error-container {
